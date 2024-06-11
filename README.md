@@ -19,3 +19,6 @@
 
 ### run your emotion detection test file
 python TestEmotionDetector.py
+
+
+CNN Model: Used Python and PyCharm to implement a Convolutional Neural Network (CNN) for emotion detection from facial expressions.     Dataset Handling: Prepared and processed image data using libraries like OpenCV and PIL in Python for training the model. Training and Evaluation: Implemented
